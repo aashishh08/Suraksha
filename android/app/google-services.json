@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942380093937",
+    "project_id": "nirbhaya-4fbbd",
+    "storage_bucket": "nirbhaya-4fbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942380093937:android:e13a529083f69ad02e7450",
+        "android_client_info": {
+          "package_name": "com.example.nirbhaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942380093937-4m1jbsamqn7a5rvsst4br12jss2lvnke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfVDchiJhPhp4VSDwdy6_7Lbhf0WqbkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942380093937-4m1jbsamqn7a5rvsst4br12jss2lvnke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
